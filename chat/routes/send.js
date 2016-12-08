@@ -1,8 +1,8 @@
 
 
 var getPort = "111111111"
-var ss = "wwww"
+var ss = "wwww1"
 module.exports = {
     'getPort' : getPort,
-    'sssssssss' : ss
+    'ssssss' : ss
 }
